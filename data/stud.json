@@ -1,0 +1,25 @@
+{
+   "students": [
+      {
+         "sno": 1,
+         "name": "para",
+         "age": 24,
+         "course": "tamil",
+         "address": "tuty"
+      },
+      {
+         "sno": 2,
+         "name": "sakthi",
+         "age": "18",
+         "course": "english",
+         "address": "Tuty"
+      },
+      {
+         "sno": 3,
+         "name": "Anand",
+         "age": "17",
+         "course": "english",
+         "address": "Tuticorin"
+      }
+   ]
+}
